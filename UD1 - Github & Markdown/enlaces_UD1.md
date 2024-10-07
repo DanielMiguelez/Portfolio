@@ -2,7 +2,7 @@
 
 # Mi Proyecto
 
-En este repositorio se encuentran los archivos relacionados con el proyecto. A continuación, algunos recursos adicionales:
+En este repositorio se encuenctran los archivos relacionados con el proyecto. A continuación, recursos adicionales:
 
 ## Lista de trabajos
 
