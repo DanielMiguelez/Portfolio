@@ -12,7 +12,7 @@ Cada Unidad Didáctica tendrá su propia carpeta, en la cual se incluirán dos a
 5. Diario de Clase
 6. Enlaces a los trabajos
 
-## Archivos de la Unidad 1
+## Archivos de las Unidades
 
 1. Diario de la Unidad
 

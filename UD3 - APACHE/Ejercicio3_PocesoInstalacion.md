@@ -145,3 +145,9 @@ Este me devolvió la dirección IP de mi servidor, confirmando que Apache estaba
 
 De esta manera, logré configurar Apache con mi propio sitio local llamado gci en Ubuntu.
 
+## IMAGENES DEL PROCESO Y DE LOS COMANDOS
+
+![Comandos de apache ](./media/ApacheINstalado.png)
+![Comandos de apache 1](./media/Image1.png)
+![Comandos de apache 2](./media/Image2.png)
+![Comandos de apache 3](./media/Image3.png)
